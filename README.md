@@ -7,7 +7,7 @@ Related papers:
 
 The following two directories provide the two major programs.
 
-- [Obtain_Initial_Feature_Vector_by_Bernstein_Polynomial_Approximation](https://github.com/SJTU-ECTL/TFASC/tree/master/Bernstein%20polynomial%20approximation%20by%20Matlab) is supposed to be run before MinSC program to prepare the input file for it.
+- [Obtain_Initial_Feature_Vector_by_Bernstein_Polynomial_Approximation](https://github.com/SJTU-ECTL/MinSC/tree/master/Obtain_Initial_Feature_Vector_by_Bernstein_Polynomial_Approximation) is supposed to be run before MinSC program to prepare the input file for it.
 
 - [MinSC_main_program (on 64-bit Linux)](https://github.com/SJTU-ECTL/MinSC/tree/master/MinSC_main_program) is the program for the MinSC method proposed in our paper [1]. 
 
