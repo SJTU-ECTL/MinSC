@@ -3,7 +3,7 @@
 This project implements the exact-synthesis method to find an area-optimal SC circuit with the relaxed error bound over the target function in our paper [1].
 
 Related papers:
-- [1]: MinSC: An Exact Synthesis-Based Method for Minimal-AreaStochastic Circuits under Relaxed Error Bound (Xuan Wang, Zhufei Chu, and Weikang Qian, ICCAD 2021)
+- [1]: MinSC: An Exact Synthesis-Based Method for Minimal-Area Stochastic Circuits under Relaxed Error Bound (Xuan Wang, Zhufei Chu, and Weikang Qian, ICCAD 2021)
 
 The following two directories provide the two major programs.
 
