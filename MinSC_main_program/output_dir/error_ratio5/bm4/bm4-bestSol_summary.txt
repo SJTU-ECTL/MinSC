@@ -1,0 +1,2 @@
+The optimal ASCP is stored in solution2.v, and the optimal area is: 6
+
